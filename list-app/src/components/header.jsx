@@ -5,7 +5,7 @@ import person from "../assets/Icon_person.png"
 function Header() {
   return (
     <div>
-        <div className='h-screen w-screen bg-[#FDFCDC] p-10'>
+        <div className=''>
           {/* Apply flex and items-center to the container holding the h1 and img */}
           <div className='flex items-center'> 
             <h1 className='text-4xl'>Get Organized</h1>
